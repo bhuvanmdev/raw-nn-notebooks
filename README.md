@@ -1,2 +1,2 @@
 # raw-nn-notebooks
-collections of raw neural networks written without using any AI/ML frameworks
+collections of raw(cleaned up or expreimental) neural networks and transformers related notebooks.
